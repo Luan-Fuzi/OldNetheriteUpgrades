@@ -9,7 +9,5 @@
   "result": {
     "item": "minecraft:netherite_shovel"
   },
-  "template": {
-    "item":"minecraft:stone"
-  }
+  "template": []
 }

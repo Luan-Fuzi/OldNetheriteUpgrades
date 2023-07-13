@@ -9,7 +9,5 @@
   "result": {
     "item": "minecraft:netherite_leggings"
   },
-  "template": {
-    "item":"minecraft:stone"
-  }
+  "template": []
 }

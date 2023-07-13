@@ -9,7 +9,5 @@
   "result": {
     "item": "minecraft:netherite_axe"
   },
-  "template": {
-    "item":"minecraft:stone"
-  }
+  "template": []
 }
